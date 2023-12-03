@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mainCar
+  - Sollama
+  - Dusman
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3076149711
+    locked: 0
+  - name: Way
+    uniqueID: 403478959
+    locked: 0
+  - name: Vinyet
+    uniqueID: 1266538499
+    locked: 0
+  - name: mainCar
+    uniqueID: 1099400601
+    locked: 0
+  - name: Canvas
+    uniqueID: 1405261691
+    locked: 0
+  - name: CarNpc
+    uniqueID: 4185647913
+    locked: 0
